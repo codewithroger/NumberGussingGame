@@ -19,6 +19,7 @@ public class ran {
             scanner.nextLine(); 
             //ashu
 //heyy...
+            //thud 
             remaining--;
             total++;
 //ashutosh 
@@ -36,6 +37,7 @@ public class ran {
                 System.out.println(" lower number.");
             }
         }
+    //frbfhsfdbsd sdghgdsffygu f ui
 
         scanner.close();
     }
