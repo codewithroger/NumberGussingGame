@@ -40,3 +40,4 @@ public class ran {
         scanner.close();
     }
 }
+//end of code
