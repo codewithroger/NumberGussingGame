@@ -23,7 +23,7 @@ public class ran {
             remaining--;
             total++;
 //ashutosh 
-            //bhaskar
+            //bhaskarhhhhhhh
             if (guess == target) {
                 System.out.println("Congratulations! You guessed the correct number!");
                 System.out.println("Total guesses made: " + total);
