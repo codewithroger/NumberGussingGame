@@ -7,6 +7,7 @@ public class ran {
         int total = 0;
             //yogesh Hitnalli
         //public account
+       // chanfges
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to the Number Guessing Game!");
