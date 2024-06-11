@@ -21,7 +21,7 @@ public class ran {
 //heyy...
             remaining--;
             total++;
-
+//ashutosh 
             if (guess == target) {
                 System.out.println("Congratulations! You guessed the correct number!");
                 System.out.println("Total guesses made: " + total);
