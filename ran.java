@@ -17,6 +17,7 @@ public class ran {
             System.out.print("Enter your guess: ");
             int guess = scanner.nextInt();
             scanner.nextLine(); 
+            //ashu
 
             remaining--;
             total++;
