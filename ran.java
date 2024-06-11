@@ -18,7 +18,7 @@ public class ran {
             int guess = scanner.nextInt();
             scanner.nextLine(); 
             //ashu
-
+//heyy...
             remaining--;
             total++;
 
