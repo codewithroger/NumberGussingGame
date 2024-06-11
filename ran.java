@@ -12,7 +12,7 @@ public class ran {
 
         System.out.println("Welcome to the Number Guessing Game!");
         System.out.println("Guess a number between 1 and 100:");
-
+        // tejas
         while (remaining > 0) {
             System.out.print("Enter your guess: ");
             int guess = scanner.nextInt();
